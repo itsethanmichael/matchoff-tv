@@ -155,7 +155,8 @@ body {
 
 .social_img {
 
-	width: 33.33%;
+	max-width: 33.33%;
+	height: 90%;
 
 	border-radius: 10px;
 
@@ -205,6 +206,7 @@ body {
 
 
 }
+
 
 
 
