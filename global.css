@@ -137,7 +137,8 @@ body {
 
 #youtube_img {
 
-	height: 100%;
+	height: auto;
+	max-height: 100%;
 	
 }
 
@@ -213,6 +214,7 @@ body {
 
 
 }
+
 
 
 
