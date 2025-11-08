@@ -135,6 +135,12 @@ body {
 
 }
 
+#youtube_img {
+
+	height: 100%;
+	
+}
+
 #twitch {
 
 	background-image: linear-gradient(
@@ -206,6 +212,7 @@ body {
 
 
 }
+
 
 
 
